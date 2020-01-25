@@ -1,7 +1,6 @@
 # TODO
 # - lighttpd: docs/lighttpd-ansel.conf
 %define		hordeapp	ansel
-%include	/usr/lib/rpm/macros.php
 Summary:	Ansel Photo Management and Web Gallery application
 Name:		horde-%{hordeapp}
 Version:	1.1.2
